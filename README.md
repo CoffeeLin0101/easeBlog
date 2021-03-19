@@ -1,4 +1,3 @@
-# demo1
 
 > A Vue.js project
 
